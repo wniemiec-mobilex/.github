@@ -1,10 +1,15 @@
 ![logo](https://raw.githubusercontent.com/wniemiec-mobilex/.github/main/docs/images/logo/logo.png)
 
 <h1 align='center'>Mobilex</h1>
-<p align='center'>a generic framework for cross-platform mobile development based on web language.</p>
+<p align='center'>A generic framework for cross-platform mobile development based on web language.</p>
 <p align="center">
 	<a href="https://github.com/wniemiec-mobilex/.github/blob/main/LICENSE"><img src="https://img.shields.io/github/license/wniemiec-mobilex/.github" alt="License"></a>
-	
+</p>
+
+<p align="center">
+	<a href='https://github.com/williamniemiec/williamniemiec/blob/main/publications/2022/%5BSBES22%5D%20Mobilex.pdf'><img alt='Read full publication' src='https://shields.io/badge/PDF-read%20full%20publication-red?logo=adobeacrobatreader&style=for-the-badge' width=250 /></a>
+</p>
+
 <hr>
 
 ## ❇ Introduction
